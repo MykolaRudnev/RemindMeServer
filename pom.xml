@@ -15,7 +15,7 @@
         <hibernate.version>5.0.2.Final</hibernate.version>
         <postgresql.version>9.1-901-1.jdbc4</postgresql.version>
         <commons-dbcp2.version>2.1.1</commons-dbcp2.version>
-        <jackson-databind.version>2.5.3</jackson-databind.version>
+        <jackson-databind.version>2.9.10.7</jackson-databind.version>
         <java.version>1.8</java.version>
     </properties>
 
